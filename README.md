@@ -1,10 +1,10 @@
 # Análise Exploratória de Dados - Pesquisa de Percepção de Tecnologia
 
-Este notebook tem como objetivo realizar a análise exploratória dos dados da Pesquisa de Percepção de Tecnologia. Os dados utilizados nesta análise estão disponíveis no Kaggle através do seguinte link: [Technology Perception Survey](https://www.kaggle.com/datasets/mrcalvinwhite/technology-perception-survey). O projeto tem como objetivo analisar as informações sobre como as pessoas percebem e utilizam a tecnologia, incluindo suas opiniões sobre os benefícios e riscos associados, bem como sua probabilidade de adotar e recomendar novas tecnologias.
+Este notebook tem como objetivo realizar a análise exploratória dos dados da Pesquisa de Percepção de Tecnologia. O projeto tem como objetivo analisar as informações sobre como as pessoas percebem e utilizam a tecnologia, incluindo suas opiniões sobre os benefícios e riscos associados, bem como sua probabilidade de adotar e recomendar novas tecnologias. A análise da percepção de tecnologia é fundamental para entender como as pessoas percebem e utilizam a tecnologia em suas vidas diárias. Essas informações são valiosas para empresas e governos que desejam desenvolver produtos e serviços que atendam às necessidades e expectativas dos usuários. Além disso, a análise de percepção de tecnologia pode fornecer insights sobre as tendências do mercado e as preferências dos consumidores, o que pode ajudar na tomada de decisões estratégicas.
 
 ## Obtenção dos dados
 
-Os dados foram coletados por meio de uma pesquisa aplicada a uma amostra aleatória com o objetivo de medir padrões de uso de tecnologia, benefícios percebidos, riscos percebidos, barreiras percebidas, probabilidade de adoção, probabilidade de recomendação, etc. A pesquisa foi direcionada principalmente para a Índia, com alguns respondentes (<10) sendo de outros países. A coleta de dados foi realizada através de amostragem aleatória online usando o Google Forms.
+Os dados utilizados nesta análise estão disponíveis no Kaggle através do seguinte link: [Technology Perception Survey](https://www.kaggle.com/datasets/mrcalvinwhite/technology-perception-survey). Os dados foram coletados por meio de uma pesquisa aplicada a uma amostra aleatória com o objetivo de medir padrões de uso de tecnologia, benefícios percebidos, riscos percebidos, barreiras percebidas, probabilidade de adoção, probabilidade de recomendação, etc. A pesquisa foi direcionada principalmente para a Índia, com alguns respondentes (<10) sendo de outros países. A coleta foi realizada através de amostragem aleatória online usando o Google Forms.
 
 ## Dicionário de Variáveis
 
@@ -52,10 +52,6 @@ A tabela abaixo apresenta um dicionário das variáveis disponíveis no conjunto
 2. Instale o servidor MySQL e crie um banco de dados e uma tabela com base no script fornecido no notebook de análise exploratória.
 3. Importe o arquivo CSV do conjunto de dados fornecido pelo Kaggle para o banco de dados criado.
 4. Abra o notebook de análise exploratória no MySQL e execute as consultas para realizar a análise dos dados.
-
-## Importância da Análise de Percepção de Tecnologia
-
-A análise da percepção de tecnologia é fundamental para entender como as pessoas percebem e utilizam a tecnologia em suas vidas diárias. Essas informações são valiosas para empresas e governos que desejam desenvolver produtos e serviços que atendam às necessidades e expectativas dos usuários. Além disso, a análise de percepção de tecnologia pode fornecer insights sobre as tendências do mercado e as preferências dos consumidores, o que pode ajudar na tomada de decisões estratégicas.
 
 ## Contato
 
